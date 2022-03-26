@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd5e6707.chunk.css",
+    "main.js": "/static/js/main.32f1fe68.chunk.js",
+    "main.js.map": "/static/js/main.32f1fe68.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89e5dcfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89e5dcfe.js.map",
+    "static/js/2.494e25aa.chunk.js": "/static/js/2.494e25aa.chunk.js",
+    "static/js/2.494e25aa.chunk.js.map": "/static/js/2.494e25aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a8ed1cb3871f31d4d363d48b38fb9b57.js": "/precache-manifest.a8ed1cb3871f31d4d363d48b38fb9b57.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fd5e6707.chunk.css.map": "/static/css/main.fd5e6707.chunk.css.map",
+    "static/js/2.494e25aa.chunk.js.LICENSE.txt": "/static/js/2.494e25aa.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.360734bb.pdf",
+    "static/media/pro1.1.JPG": "/static/media/pro1.1.ebf08ca3.JPG",
+    "static/media/pro10.1.JPG": "/static/media/pro10.1.77bbf8f5.JPG",
+    "static/media/pro11.1.JPG": "/static/media/pro11.1.b7aef25b.JPG",
+    "static/media/pro12.1.JPG": "/static/media/pro12.1.b6b9481b.JPG",
+    "static/media/pro13.1.JPG": "/static/media/pro13.1.080dbe3f.JPG",
+    "static/media/pro14.1.JPG": "/static/media/pro14.1.1f2bb00a.JPG",
+    "static/media/pro15.1.JPG": "/static/media/pro15.1.f62b4527.JPG",
+    "static/media/pro16.1.JPG": "/static/media/pro16.1.d2d294fd.JPG",
+    "static/media/pro17.1.JPG": "/static/media/pro17.1.f70c1de8.JPG",
+    "static/media/pro18.1.JPG": "/static/media/pro18.1.de282689.JPG",
+    "static/media/pro2.1.JPG": "/static/media/pro2.1.1e712eee.JPG",
+    "static/media/pro3.1.JPG": "/static/media/pro3.1.5cabeb55.JPG",
+    "static/media/pro4.1.JPG": "/static/media/pro4.1.a359e254.JPG",
+    "static/media/pro5.1.JPG": "/static/media/pro5.1.51178927.JPG",
+    "static/media/pro6.1.JPG": "/static/media/pro6.1.430159b6.JPG",
+    "static/media/pro7.1.JPG": "/static/media/pro7.1.48df813f.JPG",
+    "static/media/pro8.1.JPG": "/static/media/pro8.1.1cd33b41.JPG",
+    "static/media/pro9.1.JPG": "/static/media/pro9.1.4ac95b6c.JPG",
+    "static/media/profile.jpg": "/static/media/profile.416985c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89e5dcfe.js",
+    "static/js/2.494e25aa.chunk.js",
+    "static/css/main.fd5e6707.chunk.css",
+    "static/js/main.32f1fe68.chunk.js"
+  ]
+}
